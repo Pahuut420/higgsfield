@@ -1,5 +1,5 @@
 optimum==1.13.2
-wandb==0.15.11
+wandb==0.27.2
 polars==0.19.3
 peft==0.5.0
 datasets==2.14.5
